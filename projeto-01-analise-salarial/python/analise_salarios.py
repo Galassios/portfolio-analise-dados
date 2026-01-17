@@ -5,7 +5,7 @@ df = pd.read_csv('dados/dados_pessoas.csv')
 resultado = (
     df
     .drop_duplicates()
-    .groupby('area')
+    .groupby('area', as_index=False)
     .agg(
         media=('salario', 'mean'),
         quant=('nome', 'count')
