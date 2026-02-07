@@ -7,7 +7,7 @@ print(f"Média geral de salário: {media_geral:.2f}")
 
 resumo_area = (
     df
-    .groupby("area")
+    .groupby("area_id")
     .agg(
         media_salario=("salario", "mean"),
         total_pessoas=("nome", "count")
@@ -17,14 +17,14 @@ resumo_area = (
 )
 
 print(resumo_area)
-
+print("")
 acima_media = df[df["salario"] > media_geral]
 
-print(acima_media[["nome", "area", "salario"]])
-
+print(acima_media[["nome", "area_id", "salario"]])
+print("")
 resumo_acima_media = (
     acima_media
-    .groupby("area")
+    .groupby("area_id")
     .agg(
         media_salario=("salario", "mean"),
         total_pessoas=("nome", "count")
