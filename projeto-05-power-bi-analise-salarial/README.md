@@ -7,7 +7,7 @@ Analisar o salário médio dos colaboradores por área, comparando cada área co
 
 O projeto utiliza duas tabelas relacionadas:
 
-pessoas
+- pessoas
 
 nome
 
