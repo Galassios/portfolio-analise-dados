@@ -1,59 +1,73 @@
-Projeto 05 - Análise Salarial por Área (Power BI)
-Objetivo
+📊 Projeto 05 — Análise Salarial por Área (Power BI)
+📌 Objetivo
 
-Este projeto tem como objetivo analisar os salários dos colaboradores por área, comparando o salário médio de cada área com a média geral da empresa. A análise busca identificar diferenças salariais entre áreas e gerar insights para apoio à tomada de decisão.
+Analisar o salário médio dos colaboradores por área, comparando cada área com a média geral da empresa, a fim de identificar diferenças salariais e possíveis desequilíbrios internos.
 
-Dados utilizados
+🗂️ Base de dados
 
-O projeto utiliza dois arquivos CSV:
+O projeto utiliza duas tabelas relacionadas:
 
-pessoas.csv
-Contém informações dos colaboradores, incluindo nome, salário e a área à qual pertencem.
+pessoas
 
-areas.csv
-Contém o cadastro das áreas da empresa, com identificador e nome da área.
+nome
 
-As tabelas foram relacionadas no Power BI por meio do campo area_id da tabela pessoas com o campo id_area da tabela areas, utilizando relacionamento muitos para um.
+salario
 
-Ferramentas utilizadas
+area_id
 
-Power BI Desktop
-DAX (Data Analysis Expressions)
+areas
+
+id_area
+
+nome_area
+
+Relacionamento:
+
+pessoas[area_id] → areas[id_area] (muitos para um)
+
+🛠️ Ferramentas utilizadas
+
+Power BI
+
+DAX (medidas)
+
 Modelagem de dados
-Visualização e análise de dados
 
-Medidas criadas (DAX)
+Visualizações analíticas
 
-Salário Médio por Área
-
-Salário Médio Área =
+📐 Medidas criadas (DAX)
+Salário médio por área
+Salário Médio Área = 
 AVERAGE(pessoas[salario])
 
-
-Média Geral do Salário
-
-Média Geral Salário =
+Média geral da empresa
+Média Geral Salário = 
 AVERAGE(pessoas[salario])
 
-
-Total de Pessoas
-
-Total Pessoas =
+Total de pessoas
+Total Pessoas = 
 COUNT(pessoas[nome])
 
-Visualizações desenvolvidas
+📊 Visualizações
 
-Foi desenvolvido um gráfico de colunas apresentando o salário médio por área.
-No mesmo gráfico, foi adicionada uma linha constante representando a média geral do salário da empresa.
-O eixo Y foi ajustado para melhorar a visualização das diferenças entre as áreas.
-Também foi incluída uma caixa de texto com os principais insights da análise.
+Gráfico de colunas agrupadas:
 
-Principais insights
+Eixo X: Área
 
-A área de Marketing apresenta salário médio acima da média geral da empresa, mesmo possuindo um número menor de colaboradores.
-A área de TI também possui salário médio acima da média geral.
-A área de RH concentra o maior número de colaboradores, porém com salário médio inferior à média da empresa.
+Valores: Salário Médio por Área
 
-Conclusão
+Linha constante representando a média geral do salário
 
-O dashboard permite uma visualização clara das diferenças salariais entre as áreas, auxiliando na identificação de possíveis desequilíbrios internos e apoiando decisões relacionadas à remuneração e gestão de pessoas.
+Caixa de texto com insights analíticos
+
+🔎 Principais insights
+
+As áreas de Marketing e TI apresentam salário médio acima da média geral da empresa.
+
+A área de Marketing se destaca mesmo com um número menor de colaboradores.
+
+A área de RH concentra mais pessoas, porém com salário médio inferior à média geral.
+
+🎯 Conclusão
+
+O dashboard permite uma visão clara das diferenças salariais entre áreas, apoiando decisões estratégicas relacionadas à remuneração, valorização de equipes e alocação de recursos.
