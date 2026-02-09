@@ -9,7 +9,7 @@ O projeto utiliza duas tabelas relacionadas:
 
 - pessoas
 
-nome
+-nome
 
 salario
 
