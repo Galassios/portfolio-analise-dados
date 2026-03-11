@@ -43,5 +43,5 @@ Coleção de 5 projetos práticos focados em **análise salarial por departament
 
 ## Visualizações
 <image-card alt="Exemplo Gráfico Salarial" src="portfolio-analise-dados
-/projeto-04-analise-salarial-visualizacao/imagens/salario_medio_por_area.png" ></image-card>
+/projeto-04-analise-salarial-visualizacao/imagens/salario_medio_por_area.png"></image-card>
 <image-card alt="Dashboard Power BI" src="caminho/para/imagem-no-repo/dashboard-print.png" ></image-card>
