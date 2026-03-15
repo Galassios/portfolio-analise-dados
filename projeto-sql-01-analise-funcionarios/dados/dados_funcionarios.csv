@@ -1,0 +1,17 @@
+| id | nome     | area       | salario | data_contratacao |
+| -- | -------- | ---------- | ------- | ---------------- |
+| 1  | Ana      | TI         | 7000    | 2020-03-10       |
+| 2  | Bruno    | TI         | 8500    | 2019-07-15       |
+| 3  | Carlos   | Financeiro | 5000    | 2021-01-20       |
+| 4  | Daniela  | RH         | 4200    | 2022-09-01       |
+| 5  | Eduardo  | TI         | 9500    | 2018-11-30       |
+| 6  | Fernanda | Financeiro | 6200    | 2020-06-12       |
+| 7  | Gabriel  | Marketing  | 4800    | 2021-05-03       |
+| 8  | Helena   | Marketing  | 5300    | 2022-03-21       |
+| 9  | Igor     | RH         | 4500    | 2019-12-11       |
+| 10 | Julia    | TI         | 7800    | 2021-08-18       |
+| 11 | Karen    | Financeiro | 6700    | 2018-04-25       |
+| 12 | Lucas    | Marketing  | 5100    | 2020-10-10       |
+| 13 | Marina   | TI         | 10200   | 2017-07-07       |
+| 14 | Nicolas  | RH         | 3900    | 2023-01-15       |
+| 15 | Olivia   | Financeiro | 7100    | 2019-03-30       |
