@@ -115,3 +115,64 @@ FROM (
     FROM funcionarios
     GROUP BY ano
 ) t;
+
+
+
+-- -----------------------------------------------------
+-- 8) Diferença do salário para a média da área
+-- Objetivo: identificar funcionários acima ou abaixo da média
+-- -----------------------------------------------------
+
+WITH media_salario_area AS (
+    SELECT
+        area,
+        ROUND(AVG(salario),2) AS media_area
+    FROM dados_funcionarios
+    GROUP BY area
+)
+
+SELECT
+    f.nome,
+    f.area,
+    f.salario,
+    m.media_area,
+    ROUND(f.salario - m.media_area, 2) AS diferenca_da_media,
+    
+    -- percentual em relação à média
+    ROUND(
+        (f.salario / m.media_area) * 100,
+        2
+    ) AS percentual_da_media
+
+FROM dados_funcionarios f
+INNER JOIN media_salario_area m 
+    ON f.area = m.area
+
+ORDER BY diferenca_da_media DESC;
+
+
+
+-- -----------------------------------------------------
+-- 9) Comparação de salário com funcionário anterior (por área)
+-- Objetivo: analisar evolução salarial dentro de cada área
+-- -----------------------------------------------------
+
+SELECT
+    nome,
+    area,
+    data_contratacao,
+    salario AS salario_atual,
+
+    LAG(salario) OVER (
+        PARTITION BY area 
+        ORDER BY data_contratacao
+    ) AS salario_anterior,
+
+    salario - LAG(salario) OVER (
+        PARTITION BY area 
+        ORDER BY data_contratacao
+    ) AS diferenca
+
+FROM dados_funcionarios
+
+ORDER BY area, data_contratacao;
