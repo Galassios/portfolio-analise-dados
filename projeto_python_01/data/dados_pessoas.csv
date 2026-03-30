@@ -1,0 +1,201 @@
+nome,idade,cidade,salario,area,data_contratacao
+Marcos,43,Rio de Janeiro,6290,RH,2015-01-01
+Paula,41,Rio de Janeiro,10537,Financeiro,2015-01-02
+Ana,64,Rio de Janeiro,7537,Financeiro,2015-01-03
+Daniel,38,São Paulo,7127,TI,2015-01-04
+Daniel,47,Curitiba,10363,Marketing,2015-01-05
+Helena,21,São Paulo,5165,Vendas,2015-01-06
+Juliana,53,Salvador,4607,Financeiro,2015-01-07
+Vitória,57,Rio de Janeiro,9929,Financeiro,2015-01-08
+Thiago,27,Salvador,8410,Vendas,2015-01-09
+Eduardo,27,Fortaleza,10997,Financeiro,2015-01-10
+Gabriel,59,São Paulo,1521,TI,2015-01-11
+Marcos,41,Curitiba,8073,TI,2015-01-12
+Bruno,21,Belo Horizonte,2753,Marketing,2015-01-13
+Gabriel,64,Rio de Janeiro,7602,RH,2015-01-14
+Helena,44,Salvador,10092,Vendas,2015-01-15
+Otávio,62,Salvador,14965,TI,2015-01-16
+Sabrina,21,Salvador,10698,TI,2015-01-17
+Fernanda,49,São Paulo,4691,TI,2015-01-18
+Natália,27,São Paulo,11393,TI,2015-01-19
+Igor,28,Belo Horizonte,9563,Marketing,2015-01-20
+Juliana,45,Fortaleza,3234,Financeiro,2015-01-21
+Vitória,63,São Paulo,8040,TI,2015-01-22
+Rafael,25,Curitiba,4918,Marketing,2015-01-23
+Vitória,57,Curitiba,10278,RH,2015-01-24
+Fernanda,39,Salvador,6546,Financeiro,2015-01-25
+Paula,51,Rio de Janeiro,8746,RH,2015-01-26
+Paula,62,Salvador,10522,Financeiro,2015-01-27
+Ana,52,Curitiba,11300,Financeiro,2015-01-28
+Thiago,52,Curitiba,4705,Financeiro,2015-01-29
+Daniel,42,Curitiba,14487,Marketing,2015-01-30
+Sabrina,51,Salvador,6790,Vendas,2015-01-31
+Vitória,23,Belo Horizonte,6047,RH,2015-02-01
+Vitória,58,Rio de Janeiro,7782,Financeiro,2015-02-02
+Vitória,54,Belo Horizonte,6350,Financeiro,2015-02-03
+Otávio,18,Belo Horizonte,2837,TI,2015-02-04
+Helena,29,Rio de Janeiro,5047,TI,2015-02-05
+Ana,52,Curitiba,1887,Marketing,2015-02-06
+Bruno,23,Curitiba,6745,Financeiro,2015-02-07
+Juliana,34,Salvador,12458,RH,2015-02-08
+Ana,26,Salvador,5422,RH,2015-02-09
+Kaique,19,Belo Horizonte,2721,TI,2015-02-10
+Daniel,35,Rio de Janeiro,3424,TI,2015-02-11
+Larissa,53,Rio de Janeiro,8685,Vendas,2015-02-12
+Thiago,45,São Paulo,10401,Financeiro,2015-02-13
+Carla,58,São Paulo,10139,Financeiro,2015-02-14
+Ana,54,Belo Horizonte,1850,TI,2015-02-15
+Ana,43,Salvador,10356,TI,2015-02-16
+Eduardo,21,Curitiba,5215,TI,2015-02-17
+Fernanda,57,Fortaleza,14113,Vendas,2015-02-18
+Gabriel,53,Curitiba,10116,Vendas,2015-02-19
+Igor,48,Belo Horizonte,5760,Vendas,2015-02-20
+Sabrina,47,Rio de Janeiro,9238,Financeiro,2015-02-21
+Paula,51,São Paulo,10893,Vendas,2015-02-22
+Eduardo,36,Salvador,5011,Financeiro,2015-02-23
+Juliana,35,Rio de Janeiro,12404,TI,2015-02-24
+Kaique,47,Salvador,2173,Financeiro,2015-02-25
+Bruno,38,Salvador,3438,RH,2015-02-26
+Bruno,20,Belo Horizonte,9533,Marketing,2015-02-27
+Helena,23,São Paulo,14250,TI,2015-02-28
+Juliana,55,São Paulo,10445,RH,2015-03-01
+Daniel,30,Fortaleza,8803,Marketing,2015-03-02
+Gabriel,62,Curitiba,3473,RH,2015-03-03
+Larissa,20,Rio de Janeiro,14535,Marketing,2015-03-04
+Otávio,45,Fortaleza,13834,Marketing,2015-03-05
+Thiago,39,Fortaleza,12379,Vendas,2015-03-06
+Ana,57,Rio de Janeiro,10029,RH,2015-03-07
+Otávio,57,Fortaleza,6777,RH,2015-03-08
+Daniel,29,São Paulo,13288,TI,2015-03-09
+Marcos,40,Salvador,13394,Financeiro,2015-03-10
+Kaique,48,Curitiba,11530,RH,2015-03-11
+Larissa,35,Fortaleza,12626,RH,2015-03-12
+Eduardo,24,Curitiba,14076,TI,2015-03-13
+Gabriel,25,Salvador,9470,TI,2015-03-14
+Eduardo,36,Curitiba,1615,Vendas,2015-03-15
+Paula,46,Salvador,7219,Financeiro,2015-03-16
+Daniel,61,Curitiba,12376,Financeiro,2015-03-17
+Marcos,37,São Paulo,14197,Vendas,2015-03-18
+Eduardo,59,Fortaleza,12938,TI,2015-03-19
+Igor,47,Curitiba,12238,TI,2015-03-20
+Otávio,64,Curitiba,9543,TI,2015-03-21
+Paula,39,Rio de Janeiro,9669,RH,2015-03-22
+Daniel,27,Curitiba,14410,Financeiro,2015-03-23
+Paula,43,Fortaleza,7196,Financeiro,2015-03-24
+Natália,50,Fortaleza,4904,Marketing,2015-03-25
+Rafael,45,Salvador,13650,Marketing,2015-03-26
+Sabrina,27,São Paulo,12325,RH,2015-03-27
+Fernanda,46,Curitiba,5742,RH,2015-03-28
+Juliana,61,São Paulo,4320,Financeiro,2015-03-29
+Daniel,35,São Paulo,3299,Marketing,2015-03-30
+Ana,59,Curitiba,4191,Vendas,2015-03-31
+Fernanda,18,Rio de Janeiro,10764,TI,2015-04-01
+Ana,40,Belo Horizonte,12840,Financeiro,2015-04-02
+Sabrina,34,Curitiba,7937,Vendas,2015-04-03
+Thiago,60,Belo Horizonte,13904,RH,2015-04-04
+Eduardo,54,Curitiba,11209,TI,2015-04-05
+Carla,48,São Paulo,11276,RH,2015-04-06
+Rafael,42,Curitiba,7753,Marketing,2015-04-07
+Daniel,21,Belo Horizonte,11694,Vendas,2015-04-08
+Carla,26,São Paulo,11919,TI,2015-04-09
+Kaique,45,Curitiba,12301,TI,2015-04-10
+Natália,47,Rio de Janeiro,12835,RH,2015-04-11
+Rafael,64,Salvador,13197,Financeiro,2015-04-12
+Helena,41,Curitiba,5578,Vendas,2015-04-13
+Juliana,50,Rio de Janeiro,6905,TI,2015-04-14
+Ana,37,Belo Horizonte,6111,TI,2015-04-15
+Kaique,26,Fortaleza,9766,Marketing,2015-04-16
+Thiago,25,Rio de Janeiro,8134,Vendas,2015-04-17
+Larissa,41,Salvador,13085,Vendas,2015-04-18
+Carla,31,Rio de Janeiro,7507,TI,2015-04-19
+Carla,35,Fortaleza,5104,Vendas,2015-04-20
+Daniel,18,Curitiba,4780,Vendas,2015-04-21
+Daniel,29,Rio de Janeiro,6662,TI,2015-04-22
+Thiago,46,Curitiba,7118,TI,2015-04-23
+Otávio,54,Belo Horizonte,1528,RH,2015-04-24
+Daniel,43,Salvador,2934,RH,2015-04-25
+Sabrina,50,Fortaleza,4403,RH,2015-04-26
+Thiago,60,Rio de Janeiro,4752,RH,2015-04-27
+Otávio,32,Salvador,7948,Vendas,2015-04-28
+Juliana,40,Rio de Janeiro,11330,Marketing,2015-04-29
+Bruno,46,Salvador,10469,TI,2015-04-30
+Eduardo,38,Rio de Janeiro,8926,TI,2015-05-01
+Kaique,36,Belo Horizonte,13136,Financeiro,2015-05-02
+Larissa,22,Fortaleza,14645,Marketing,2015-05-03
+Igor,40,Fortaleza,10577,Marketing,2015-05-04
+Larissa,53,Belo Horizonte,2112,TI,2015-05-05
+Carla,37,Curitiba,5686,Marketing,2015-05-06
+Vitória,25,Rio de Janeiro,10784,Financeiro,2015-05-07
+Rafael,26,Belo Horizonte,10309,Vendas,2015-05-08
+Ana,31,Belo Horizonte,11238,RH,2015-05-09
+Ana,23,Salvador,5608,Financeiro,2015-05-10
+Gabriel,18,Belo Horizonte,7236,RH,2015-05-11
+Vitória,26,Belo Horizonte,11965,TI,2015-05-12
+Otávio,33,Curitiba,12161,Vendas,2015-05-13
+Kaique,33,São Paulo,5763,Financeiro,2015-05-14
+Vitória,29,Fortaleza,10620,Marketing,2015-05-15
+Igor,22,Salvador,11094,Vendas,2015-05-16
+Natália,57,Belo Horizonte,13053,Financeiro,2015-05-17
+Carla,46,São Paulo,10614,Vendas,2015-05-18
+Daniel,63,São Paulo,1599,TI,2015-05-19
+Carla,44,Belo Horizonte,8885,Marketing,2015-05-20
+Larissa,28,Curitiba,3854,RH,2015-05-21
+Natália,64,Fortaleza,12084,RH,2015-05-22
+Rafael,45,Fortaleza,7408,RH,2015-05-23
+Igor,53,Fortaleza,14522,Financeiro,2015-05-24
+Igor,59,Rio de Janeiro,3108,Vendas,2015-05-25
+Vitória,36,Fortaleza,6894,Marketing,2015-05-26
+Igor,52,Curitiba,10612,Marketing,2015-05-27
+Carla,48,Belo Horizonte,9219,Financeiro,2015-05-28
+Daniel,61,Salvador,12998,Marketing,2015-05-29
+Marcos,36,Rio de Janeiro,1784,Marketing,2015-05-30
+Otávio,63,Rio de Janeiro,13422,Vendas,2015-05-31
+Ana,41,Belo Horizonte,12041,Vendas,2015-06-01
+Eduardo,19,Belo Horizonte,12562,Vendas,2015-06-02
+Daniel,24,Salvador,1500,Financeiro,2015-06-03
+Natália,60,Fortaleza,11878,Financeiro,2015-06-04
+Larissa,48,Curitiba,6303,Financeiro,2015-06-05
+Natália,34,Salvador,7351,Marketing,2015-06-06
+Natália,44,Fortaleza,12181,RH,2015-06-07
+Larissa,53,Belo Horizonte,13730,Marketing,2015-06-08
+Rafael,60,Salvador,4463,Vendas,2015-06-09
+Otávio,27,Fortaleza,10878,RH,2015-06-10
+Rafael,62,Belo Horizonte,3598,TI,2015-06-11
+Vitória,31,Rio de Janeiro,6466,RH,2015-06-12
+Bruno,24,Salvador,3568,Vendas,2015-06-13
+Igor,56,São Paulo,8327,Vendas,2015-06-14
+Ana,57,Rio de Janeiro,14418,Vendas,2015-06-15
+Eduardo,26,São Paulo,11868,Vendas,2015-06-16
+Gabriel,31,Belo Horizonte,7104,TI,2015-06-17
+Natália,25,São Paulo,8009,RH,2015-06-18
+Helena,34,Curitiba,13893,TI,2015-06-19
+Paula,40,Fortaleza,9374,Marketing,2015-06-20
+Juliana,33,Belo Horizonte,9917,RH,2015-06-21
+Thiago,43,São Paulo,9320,Marketing,2015-06-22
+Igor,26,Belo Horizonte,3307,Marketing,2015-06-23
+Paula,53,Curitiba,4690,Marketing,2015-06-24
+Larissa,24,São Paulo,11891,Vendas,2015-06-25
+Gabriel,35,São Paulo,3432,RH,2015-06-26
+Paula,25,Rio de Janeiro,5473,Financeiro,2015-06-27
+Bruno,38,São Paulo,13533,RH,2015-06-28
+Marcos,43,Fortaleza,1766,Vendas,2015-06-29
+Daniel,20,São Paulo,12770,RH,2015-06-30
+Thiago,34,Belo Horizonte,6882,Vendas,2015-07-01
+Paula,63,Curitiba,10306,RH,2015-07-02
+Daniel,41,Salvador,13698,RH,2015-07-03
+Kaique,42,Fortaleza,14119,Marketing,2015-07-04
+Marcos,22,Curitiba,11057,TI,2015-07-05
+Gabriel,54,Curitiba,13146,RH,2015-07-06
+Daniel,62,São Paulo,3918,Financeiro,2015-07-07
+Fernanda,41,Salvador,8334,TI,2015-07-08
+Larissa,48,Salvador,13022,Financeiro,2015-07-09
+Ana,43,Curitiba,9000,RH,2015-07-10
+Larissa,38,Belo Horizonte,6265,Vendas,2015-07-11
+Igor,51,Salvador,7141,RH,2015-07-12
+Kaique,55,Salvador,10319,Marketing,2015-07-13
+Larissa,41,Fortaleza,10660,Vendas,2015-07-14
+Fernanda,45,Curitiba,5985,Financeiro,2015-07-15
+Paula,47,Fortaleza,8272,RH,2015-07-16
+Igor,51,Fortaleza,9873,RH,2015-07-17
+Carla,40,Rio de Janeiro,3783,Vendas,2015-07-18
+Vitória,25,Salvador,5789,RH,2015-07-19
