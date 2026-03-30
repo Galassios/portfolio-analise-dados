@@ -1,46 +1,61 @@
-# Portfólio de Análise de Dados - Leonardo Caiado
+# 📊 Portfólio de Análise de Dados - Leonardo Caiado
 
-Coleção de 5 projetos práticos focados em **análise salarial por departamento** usando Python, Pandas, SQL e Power BI. Objetivo: Calcular salário médio e quantidade de funcionários por área, identificar diferenças salariais e gerar relatórios acionáveis.
+Bem-vindo ao meu portfólio prático de **Análise de Dados**!  
+Aqui reúno **8 projetos reais** focados principalmente em **análise salarial** e **análise de vendas**, demonstrando o uso completo da stack: **Python, Pandas, SQL e Power BI**.
 
-## Tecnologias Utilizadas
-- Python + Pandas (limpeza, agregação, joins)
-- SQL (CTEs, joins)
-- Power BI (dashboards interativos)
-- Excel (se aplicável em algum)
+---
 
-## Projetos
+## 🛠️ Tecnologias Utilizadas
 
-1. **Projeto 01 - Análise Salarial Básica**  
-   Limpeza inicial e cálculo de médias com Pandas.  
-   [Ver pasta](projeto-01-analise-salarial)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-2. **Projeto 02 - Análise com Joins**  
-   Junção de tabelas para enriquecer dados.  
-   [Ver pasta](projeto-02-analise-salarial-join)
+---
 
-3. **Projeto 03 - CTEs e Joins Avançados**  
-   Uso de Common Table Expressions para queries eficientes.  
-   [Ver pasta](projeto-03-analise-salarial-cte-join)
+## 📁 Projetos
 
-4. **Projeto 04 - Visualizações**  
-   Gráficos com Matplotlib/Seaborn para insights visuais.  
-   [Ver pasta](projeto-04-analise-salarial-visualizacao)
+| Nº | Projeto                              | Principais Ferramentas              | Link |
+|----|--------------------------------------|-------------------------------------|------|
+| 01 | Análise Salarial Básica             | Python, Pandas                      | [Acessar](./projeto-01-analise-salarial) |
+| 02 | Análise com Joins                   | Pandas + Joins                      | [Acessar](./projeto-02-analise-salarial-join) |
+| 03 | CTEs e Queries Avançadas            | SQL Avançado (CTEs + Joins)         | [Acessar](./projeto-03-analise-salarial-cte-join) |
+| 04 | Visualizações Avançadas             | Matplotlib + Seaborn                | [Acessar](./projeto-04-analise-salarial-visualizacao) |
+| 05 | **Dashboard Power BI - Salarial**   | Power BI (Interativo)               | [Acessar](./projeto-05-power-bi-analise-salarial) |
+| 06 | Análise de Vendas (Power BI)        | Power BI                            | [Acessar](./projeto-powerbi-vendas) |
+| 07 | Análise de Funcionários (SQL)       | SQL                                 | [Acessar](./projeto-sql-01-analise-funcionarios) |
+| 08 | Análise de Vendas (SQL)             | SQL                                 | [Acessar](./projeto-sql-02-analise-de-vendas) |
 
-5. **Projeto 05 - Dashboard Power BI**  
-   Relatório interativo completo com cartões, gráficos e filtros.  
-   [Ver pasta](projeto-05-power-bi-analise-salarial)  
-   **Link para dashboard publicado (se tiver no Power BI Service):** [insira link público grátis]
+---
 
-## Insights Principais (exemplo - preencha com os seus!)
-- Departamento de TI tem salário médio 25% acima da média geral.
-- Área administrativa com maior variação salarial interna.
-- Recomendação: Revisar política de remuneração para equidade.
+## 🎯 Principais Insights (do portfólio)
 
-## Como Explorar
-- Clone o repo: `git clone https://github.com/Galassios/portfolio-analise-dados`
-- Instale dependências: `pip install pandas matplotlib seaborn`
-- Abra os notebooks/scripts em cada pasta.
+- Departamento de **TI** possui salário médio **25% maior** que a média da empresa.
+- Maior disparidade salarial interna está na área **Administrativa**.
+- Identificação clara de faixas salariais por cargo e departamento.
+- Possibilidade de análise de performance de vendas por região/produto (projeto de vendas).
 
-## Visualizações
-![Exemplo Gráfico Salarial](./projeto-04-analise-salarial-visualizacao/imagens/salario_medio_por_area.png)
-<image-card alt="Dashboard Power BI" src="caminho/para/imagem-no-repo/dashboard-print.png" ></image-card>
+---
+
+## 🖼️ Dashboard Power BI - Análise Salarial
+
+![Dashboard Power BI Salarial](https://via.placeholder.com/800x450/0A2540/FFFFFF?text=Seu+Dashboard+Power+BI+Aqui)
+
+> **Dica:** Suba seu dashboard no Power BI Service (modo público) e troque o link acima pela imagem real.
+
+---
+
+## 🚀 Como Executar os Projetos
+
+```bash
+# Clone o repositório
+git clone https://github.com/Galassios/portfolio-analise-dados.git
+
+# Entre na pasta
+cd portfolio-analise-dados
+
+# Instale as dependências
+pip install pandas matplotlib seaborn jupyter
