@@ -55,7 +55,7 @@ O projeto inclui um gráfico de barras horizontais que mostra o percentual salar
 * 🔴 Abaixo do esperado
 * ⚪ Dentro da média
 * 🟢 Acima do esperado
-
+![Análise Salarial](imagens/grafico.png)
 ---
 
 ## ⚠️ Limitações
