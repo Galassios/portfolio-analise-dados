@@ -2,7 +2,8 @@
 
 Dashboard interativo de **Análise Salarial** desenvolvido em Power BI para demonstrar habilidades em Business Intelligence, modelagem de dados, DAX e visualização de insights.
 
-![Dashboard Análise Salarial](https://via.placeholder.com/800x450/0A2540/FFFFFF?text=Insira+aqui+a+imagem+do+seu+dashboard)
+![Dashboard Análise Salarial](https:<img width="772" height="441" alt="Captura de tela 2026-04-02 220857" src="https://github.com/user-attachments/assets/9b07cce1-ecac-44f3-be82-c417043ed74a" />
+)
 
 ---
 
