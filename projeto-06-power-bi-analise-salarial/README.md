@@ -39,12 +39,12 @@ Dashboard interativo de **Análise Salarial** desenvolvido em Power BI para demo
 portfolio-analise-dados/
 ├── projeto-05-power-bi-analise-salarial/
 │   ├── dashboard/
-        análise_salarial.pbix          ← Arquivo principal do dashboard
+             └── análise_salarial.pbix          
 │   ├── dados/
-│        pessoas.csv
-│        areas.csv
-│   └── README.md                      ← Detalhes específicos deste projeto
-├── README.md                          ← Este arquivo (principal)
+│         ├── pessoas.csv
+│         └── areas.csv
+│   └── README.md                     
+├── README.md                          
 ```
 ---
 
