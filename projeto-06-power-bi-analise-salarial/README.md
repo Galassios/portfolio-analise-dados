@@ -35,7 +35,7 @@ Dashboard interativo de **Análise Salarial** desenvolvido em Power BI para demo
 ---
 
 ## 📁 Estrutura do Projeto
-
+```
 portfolio-analise-dados/
 ├── projeto-05-power-bi-analise-salarial/
 │   ├── Análise Salarial.pbix          ← Arquivo principal do dashboard
@@ -43,7 +43,7 @@ portfolio-analise-dados/
 │   ├── areas.csv
 │   └── README.md                      ← Detalhes específicos deste projeto
 ├── README.md                          ← Este arquivo (principal)
-
+```
 ---
 
 ## 🚀 Como Visualizar o Dashboard
