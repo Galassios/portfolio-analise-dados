@@ -27,7 +27,7 @@ Aqui reúno **8 projetos reais** focados principalmente em **análise salarial**
 | 05 | **Dashboard Power BI - Salarial**   | Power BI (Interativo)               | [Acessar](./projeto-05-power-bi-analise-salarial) |
 | 06 | Análise de Funcionários (SQL)       | SQL                                 | [Acessar](./projeto-sql-01-analise-funcionarios)  |
 | 07 | Análise de Vendas (SQL)             | SQL                                 | [Acessar](./projeto-sql-02-analise-de-vendas) |
-| 08 | Projeto Python e Pandas             | Python                              | [Acessar](./projeto_python_01)
+| 08 | Análise de Discrepância Salarial    | Python                              | [Acessar](./projeto_python_01)
 ---
 
 ## 🎯 Principais Insights (do portfólio)
