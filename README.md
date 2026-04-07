@@ -25,9 +25,8 @@ Aqui reúno **8 projetos reais** focados principalmente em **análise salarial**
 | 03 | CTEs e Queries Avançadas            | SQL Avançado (CTEs + Joins)         | [Acessar](./projeto-03-analise-salarial-cte-join) |
 | 04 | Visualizações Avançadas             | Matplotlib + Seaborn                | [Acessar](./projeto-04-analise-salarial-visualizacao) |
 | 05 | **Dashboard Power BI - Salarial**   | Power BI (Interativo)               | [Acessar](./projeto-05-power-bi-analise-salarial) |
-| 06 | Análise de Vendas (Power BI)        | Power BI                            | [Acessar](./projeto-powerbi-vendas) |
-| 07 | Análise de Funcionários (SQL)       | SQL                                 | [Acessar](./projeto-sql-01-analise-funcionarios) |
-| 08 | Análise de Vendas (SQL)             | SQL                                 | [Acessar](./projeto-sql-02-analise-de-vendas) |
+| 06 | Análise de Funcionários (SQL)       | SQL                                 | [Acessar](./projeto-sql-01-analise-funcionarios)  |
+| 07 | Análise de Vendas (SQL)             | SQL                                 | [Acessar](./projeto-sql-02-analise-de-vendas) |
 
 ---
 
