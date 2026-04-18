@@ -41,7 +41,7 @@ Aqui reúno **8 projetos reais** focados principalmente em **análise salarial**
 
 ## 🖼️ Dashboard Power BI - Análise Salarial
 
-![Dashboard Power BI Salarial](https:<img width="772" height="441" alt="Captura de tela 2026-04-02 220857" src="https://github.com/user-attachments/assets/9b07cce1-ecac-44f3-be82-c417043ed74a" />)
+<img width="772" height="441" alt="Captura de tela 2026-04-02 220857" src="https://github.com/user-attachments/assets/9b07cce1-ecac-44f3-be82-c417043ed74a" />
 
 
 
