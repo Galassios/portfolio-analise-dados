@@ -1,4 +1,5 @@
 SET @data_referencia = '2026-06-01';
+
 WITH base AS (
     SELECT 
         cliente_id,
@@ -9,7 +10,8 @@ WITH base AS (
             ELSE 'churn'
         END as status
     FROM pedidos
-    GROUP BY cliente_id
+    WHERE data <= @data_referencia
+    GROUP BY cliente_id;
 )
 
 SELECT
