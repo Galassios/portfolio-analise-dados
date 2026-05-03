@@ -1,4 +1,5 @@
 SET @data_referencia = '2026-06-01';
+
 SELECT 
     cliente_id,
     MAX(data) AS data_ultima_compra,
@@ -8,4 +9,5 @@ SELECT
         ELSE 'churn'
     END as status
 FROM pedidos
+WHERE data <= @data_referencia
 GROUP BY cliente_id;
