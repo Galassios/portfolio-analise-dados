@@ -1,4 +1,5 @@
 SET @data_referencia = '2026-06-01';
+
 WITH base AS (
     SELECT 
         cliente_id,
