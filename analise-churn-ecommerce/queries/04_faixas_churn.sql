@@ -5,6 +5,7 @@ WITH base AS (
         cliente_id,
         DATEDIFF(@data_referencia, MAX(data)) as dias_sem_comprar
     FROM pedidos
+    WHERE data <= @data_referencia
     GROUP BY cliente_id
 )
 
