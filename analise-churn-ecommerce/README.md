@@ -20,10 +20,13 @@ A empresa observou queda na recorrência de clientes, mas não possui clareza so
 
 Tabela: `pedidos`
 
-| coluna     | descrição                |
-| ---------- | ------------------------ |
-| cliente_id | identificador do cliente |
-| data       | data do pedido           |
+| coluna       | descrição                      |
+|-------------|-------------------------------|
+| id_pedido   | identificador do pedido       |
+| cliente_id  | identificador do cliente      |
+| data        | data do pedido                |
+| valor       | valor do pedido               |
+| canal       | canal de venda                |
 
 📌 **Observação:**
 Os dados foram simulados para fins de estudo. Foram adicionados pedidos com datas mais antigas para possibilitar a análise de churn.
