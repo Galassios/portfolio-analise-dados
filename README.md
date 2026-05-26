@@ -5,7 +5,6 @@
 Portfólio focado em projetos práticos de e-commerce, com ênfase em **SQL**, **Power BI** e análise de métricas de negócio (Churn e Receita).
 
 - [LinkedIn](https://www.linkedin.com/in/leonardo-caiado-a70753338)
-- [GitHub](https://github.com/Galassios/portfolio-analise-dados)
 
 ---
 
