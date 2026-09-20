@@ -50,12 +50,6 @@ Portfólio focado em projetos práticos de e-commerce, com ênfase em **SQL**, *
 
 ---
 
-## 🎯 Próximos Passos no Portfólio
-- Projeto de Análise com Python + Pandas (em desenvolvimento)
-- Mais visualizações e imagens nos projetos
-
----
-
 ## 📬 Contato
 
 - LinkedIn: [Leonardo Caiado](https://www.linkedin.com/in/leonardo-caiado-a70753338)
